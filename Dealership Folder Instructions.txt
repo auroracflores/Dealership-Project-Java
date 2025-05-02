@@ -1,4 +1,5 @@
 Dealership Folder:
-The following code belongs to the package dealership and contains all that is needed to run the code. 
+The following code shows all classes belonging to the package dealership. 
 Code enters through the main class Login.java. The argument for the program is the local address of
-the 'db' folder (included in GitHub). Ex) C:\Users\...\Downloads\DealershipProject\dealership\db
+the 'db' folder (included in GitHub), which contains the data used in the project as CSV files. 
+Ex) C:\Users\...\Downloads\DealershipProject\dealership\db
