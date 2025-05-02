@@ -1,0 +1,6 @@
+db Folder Instructions:
+This folder contains two versions of each file: file.csv and file_keep.csv.
+Files containing "_keep" were provided by the instructor as backups. These
+files may have outdated formatting as the project may have changed as time moved on.
+Files without "_keep" are accessed and manipulated through the program. These
+files have the proper formatting according to updated project guidelines throughout the semester.
