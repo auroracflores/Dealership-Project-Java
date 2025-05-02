@@ -1,0 +1,8 @@
+# id, first name, last name, email, phone, role, username, password
+100, cyrus, cyrus, cyrus.cyrus@bestcars.com, 617-800-1000, manager, ccyrus, ccyrus
+101, Joe, Black, joe.black@bestcars.com, 617-800-1001, manager, jblack, jblack
+102, Bob, Marley, bob.marley@bestcars.com, 617-800-1002, manager, bmarley, bmarkey
+200, cyrus, cyrus, cyrus.cyrus@bestcars.com, 617-800-2000, manager, ccyrus, ccyrus
+201, Jill, Jones, jill.jones@bestcars.com, 617-800-2001, salesperson, jjones, jjones
+202, 34213425, Priya, Patel, priya.patel@bestcars.com, 617-800-2002, 1salesperson, ppatel, ppatel
+203, 66557744, Maria, Lopez, maria.lopezbestcars.com, 617-800-2003, salesperson, mlopez, mlopez
